@@ -1,0 +1,1 @@
+{\n  "name": "voice-chat-app",\n  "version": "1.0.0",\n  "description": "A real-time voice chat application using Express and Socket.IO",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "socket.io": "^4.0.0"\n  }\n}
